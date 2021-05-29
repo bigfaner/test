@@ -1,8 +1,0 @@
-aa
-<<<<<<< HEAD
-bbbb
-master
-=======
-bbbbccc
-branch01
->>>>>>> branch01
